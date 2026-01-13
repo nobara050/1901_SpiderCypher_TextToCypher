@@ -1,11 +1,3 @@
-**Authors:** Tien Dat Nguyen$^{1,2}$, Duy Linh Vu Nguyen$^{1,2}$, Gia Kiet Le$^{1,2}$, Minh Nhut Nguyen$^{1,2}$, Dinh Thuan Nguyen$^{1,2,*}$
-<br>
-$^{1}$*University of Information Technology, VNU-HCM, Vietnam*
-<br>
-$^{2}$*Vietnam National University, Ho Chi Minh City, Vietnam*
-
----
-
 ## Overview
 
 This repository contains the implementation and experimental data for our paper: **"Enhancing Text-to-Cypher Capabilities of Small Language Models via Draft-Guided Schema Linking and Self-Correction"**.
